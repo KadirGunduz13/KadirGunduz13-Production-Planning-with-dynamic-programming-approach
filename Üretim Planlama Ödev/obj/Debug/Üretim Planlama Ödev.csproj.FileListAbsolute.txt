@@ -1,0 +1,7 @@
+C:\Users\kdrgn\source\repos\Üretim Planlama Ödev\Üretim Planlama Ödev\bin\Debug\Üretim Planlama Ödev.exe.config
+C:\Users\kdrgn\source\repos\Üretim Planlama Ödev\Üretim Planlama Ödev\bin\Debug\Üretim Planlama Ödev.exe
+C:\Users\kdrgn\source\repos\Üretim Planlama Ödev\Üretim Planlama Ödev\bin\Debug\Üretim Planlama Ödev.pdb
+C:\Users\kdrgn\source\repos\Üretim Planlama Ödev\Üretim Planlama Ödev\obj\Debug\Üretim Planlama Ödev.csproj.AssemblyReference.cache
+C:\Users\kdrgn\source\repos\Üretim Planlama Ödev\Üretim Planlama Ödev\obj\Debug\Üretim Planlama Ödev.csproj.CoreCompileInputs.cache
+C:\Users\kdrgn\source\repos\Üretim Planlama Ödev\Üretim Planlama Ödev\obj\Debug\Üretim Planlama Ödev.exe
+C:\Users\kdrgn\source\repos\Üretim Planlama Ödev\Üretim Planlama Ödev\obj\Debug\Üretim Planlama Ödev.pdb
